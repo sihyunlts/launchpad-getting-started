@@ -15,7 +15,7 @@ description: "이 페이지에는 런치패드 프로젝트를 제작하거나 �
 
 ## Ableton Live (Win / Mac)
 
-![img](/images/software/live_suite.ico)
+<img src="/images/software/live_suite.ico" alt="Ableton Live" width="200" loading="lazy" />
 
 Live는 Ableton에서 개발한 디지털 오디오 워크스테이션(DAW)입니다. Live는 음악 제작이나 라이브 공연을 위한 기능을 제공합니다. 런치패드는 Ableton과 협업을 통해 개발되었기 때문에, Live에 가장 많은 기능이 통합되어 있습니다.
 
@@ -64,7 +64,7 @@ Live는 기능과 가격에 따라 다양한 에디션으로 구분됩니다.
 
 ## Apollo Studio (Win / Mac)
 
-![img](/images/software/apollostudioicon.webp)
+<img src="/images/software/apollostudioicon.webp" alt="Apollo Studio" width="200" loading="lazy" />
 
 Apollo Studio는 런치패드 조명 효과를 위해 만들어진 스탠드얼론 에디터로, Live와 Max For Live 없이도 화려한 조명 효과를 제작할 수 있습니다. Live와는 다른 방식으로 LED를 출력하기 때문에 런치패드의 64만 가지 색상을 모두 사용할 수 있습니다.
 
@@ -82,7 +82,7 @@ Windows의 경우 exe 확장자 파일을, macOS의 경우 pkg 확장자 파일�
 
 ## Unitor (Win)
 
-![img](/images/software/5.ico)
+<img src="/images/software/5.ico" alt="Unitor" width="200" loading="lazy" />
 
 Unitor는 PC에서 UniPad 프로젝트(UniPack)를 제작하고 연주하기 위한 소프트웨어입니다.
 
@@ -94,7 +94,7 @@ Unitor는 PC에서 UniPad 프로젝트(UniPack)를 제작하고 연주하기 위
 
 ## UniPad (Android)
 
-![img](/images/software/unipad.webp)
+<img src="/images/software/unipad.webp" alt="UniPad" width="200" loading="lazy" />
 
 UniPad(유니패드)는 김지섭 및 유니패드 팀이 개발한 Android 전용 런치패드 시뮬레이터로, 실제 런치패드를 물리적으로 연결해 연주할 수 있습니다. 공식 설명에서는 런치패드를 기반으로 한 '리듬 게임(음악 게임)'으로 소개하고 있습니다.
 
