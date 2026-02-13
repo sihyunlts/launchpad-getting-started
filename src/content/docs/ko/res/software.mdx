@@ -3,6 +3,8 @@ title: "소프트웨어"
 description: "이 페이지에는 런치패드 프로젝트를 제작하거나 연주할 때 사용할 수 있는 다양한 소프트웨어가 포함되어 있습니다."
 ---
 
+import { LinkButton } from '@astrojs/starlight/components';
+
 이 페이지에는 런치패드 프로젝트를 제작하거나 연주할 때 사용할 수 있는 다양한 소프트웨어가 포함되어 있습니다.
 
 :::caution[주의]
@@ -45,9 +47,9 @@ Live는 기능과 가격에 따라 다양한 에디션으로 구분됩니다.
 | 항목 | Windows | macOS |
 | --- | --- | --- |
 | 운영체제 | Windows 10(버전 22H2) 또는 Windows 11(버전 22H2 이상) | macOS 11.7.10 Big Sur ~ macOS 15.7.3 Sequoia |
-| CPU | 5세대 Intel Core i5 프로세서 또는 AMD Ryzen 프로세서(`AVX2` 명령어 세트 지원 필요)<br>(Windows ARM 미지원) | Intel Core i5 프로세서 또는 Apple Silicon |
+| CPU | 5세대 Intel Core i5 프로세서 또는 AMD Ryzen 프로세서(`AVX2` 명령어 세트 지원 필요)<br />(Windows ARM 미지원) | Intel Core i5 프로세서 또는 Apple Silicon |
 | RAM | 8 GB RAM | 8 GB RAM |
-| 디스크 공간 | 시스템 드라이브에 약 6 GB<br>(선택 사항: 추가 사운드 콘텐츠용 최대 76 GB) | 시스템 드라이브에 약 8 GB(Intel) / 약 10 GB(Apple Silicon)<br>(선택 사항: 추가 사운드 콘텐츠용 최대 76 GB) |
+| 디스크 공간 | 시스템 드라이브에 약 6 GB<br />(선택 사항: 추가 사운드 콘텐츠용 최대 76 GB) | 시스템 드라이브에 약 8 GB(Intel) / 약 10 GB(Apple Silicon)<br />(선택 사항: 추가 사운드 콘텐츠용 최대 76 GB) |
 | 디스플레이 해상도 | 1366x768 | 1280x800 |
 | 오디오 인터페이스 | Link 지원을 위한 ASIO 호환 오디오 하드웨어(최적의 오디오 성능을 위해서도 권장) | Core Audio 호환 오디오 인터페이스 권장 |
 
@@ -57,8 +59,8 @@ Live는 기능과 가격에 따라 다양한 에디션으로 구분됩니다.
 
 ### 다운로드 및 구매
 
-- [체험판 다운로드](https://www.ableton.com/en/trial/)
-- [구매 페이지 (99만 9천원, 최대 24개월 할부)](https://www.ableton.com/en/shop/live/)
+<LinkButton href="https://www.ableton.com/en/trial/" target="_blank" rel="noopener noreferrer" variant="primary">체험판 다운로드</LinkButton>
+<LinkButton href="https://www.ableton.com/en/shop/live/" target="_blank" rel="noopener noreferrer" variant="secondary">구매 페이지 (99만 9천원, 최대 24개월 할부)</LinkButton>
 
 ---
 
@@ -72,7 +74,7 @@ Apollo Studio는 런치패드 조명 효과를 위해 만들어진 스탠드얼�
 
 ### 다운로드
 
-- [공식 홈페이지](https://apollo.mat1jaczyyy.com/)
+<LinkButton href="https://apollo.mat1jaczyyy.com/" target="_blank" rel="noopener noreferrer" variant="primary">공식 홈페이지</LinkButton>
 
 :::tip[안내]
 Windows의 경우 exe 확장자 파일을, macOS의 경우 pkg 확장자 파일을 다운로드해야 합니다.
@@ -88,7 +90,7 @@ Unitor는 PC에서 UniPad 프로젝트(UniPack)를 제작하고 연주하기 위
 
 ### 다운로드
 
-- [공식 홈페이지](https://teamunitor.github.io/UnitorWeb/)
+<LinkButton href="https://teamunitor.github.io/UnitorWeb/" target="_blank" rel="noopener noreferrer" variant="primary">공식 홈페이지</LinkButton>
 
 ---
 
@@ -104,7 +106,7 @@ UniPad는 업데이트가 활발하지 않아 최신 안드로이드 버전에�
 
 ### 다운로드
 
-- [공식 홈페이지](https://unipad.io)
+<LinkButton href="https://unipad.io" target="_blank" rel="noopener noreferrer" variant="primary">공식 홈페이지</LinkButton>
 
 ---
 
@@ -114,12 +116,10 @@ Super Pads와 Super Pads Lights는 Opala Studios Solucoes Tecnologicas Ltda에�
 
 ### Super Pads
 
-- [iOS (App Store)](https://apps.apple.com/cn/app/super-pads-become-a-dj/id1196953001)
-
-- [Android (Play Store)](https://play.google.com/store/apps/details?id=com.opalastudios.pads)
+<LinkButton href="https://apps.apple.com/cn/app/super-pads-become-a-dj/id1196953001" target="_blank" rel="noopener noreferrer" variant="primary">iOS (App Store)</LinkButton>
+<LinkButton href="https://play.google.com/store/apps/details?id=com.opalastudios.pads" target="_blank" rel="noopener noreferrer" variant="primary">Android (Play Store)</LinkButton>
 
 ### Super Pads Lights
 
-- [iOS (App Store)](https://apps.apple.com/cn/app/super-pads-lights-be-a-dj/id1347371400)
-
-- [Android (Play Store)](https://play.google.com/store/apps/details?id=com.opalastudios.superlaunchpad)
+<LinkButton href="https://apps.apple.com/cn/app/super-pads-lights-be-a-dj/id1347371400" target="_blank" rel="noopener noreferrer" variant="primary">iOS (App Store)</LinkButton>
+<LinkButton href="https://play.google.com/store/apps/details?id=com.opalastudios.superlaunchpad" target="_blank" rel="noopener noreferrer" variant="primary">Android (Play Store)</LinkButton>
