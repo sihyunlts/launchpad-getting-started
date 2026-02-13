@@ -12,6 +12,22 @@ export default defineConfig({
 			title: {
 				ko: '런치패드 길라잡이',
 			},
+			customCss: ['./src/styles/custom.css'],
+			head: [
+				{
+					tag: 'link',
+					attrs: { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: 'anonymous' },
+				},
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'stylesheet',
+						as: 'style',
+						crossorigin: 'anonymous',
+						href: 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css',
+					},
+				},
+			],
 			defaultLocale: 'ko',
 			locales: {
 				ko: {
