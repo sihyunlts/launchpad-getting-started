@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightImageZoom from 'starlight-image-zoom'
 import rehypeExternalLinksTargetBlank from './src/rehype/external-links-target-blank.js';
 
 // https://astro.build/config
@@ -13,6 +14,7 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
+			plugins: [starlightImageZoom()],
 			title: {
 				ko: '런치패드 길라잡이',
 			},
