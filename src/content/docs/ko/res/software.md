@@ -9,6 +9,10 @@ description: "이 페이지에는 런치패드 프로젝트를 제작하거나 �
 유료 상용 소프트웨어의 불법 복제본은 제공하지 않습니다.
 :::
 
+:::tip[안내]
+모바일 앱은 런치패드의 모든 기능을 사용하는 데 한계가 있습니다. 괜찮은 컴퓨터가 있다면 컴퓨터용 소프트웨어를 사용하는 것을 권장합니다.
+:::
+
 ## Ableton Live (Win / Mac)
 
 ![img](/images/software/live_suite.ico)
@@ -36,7 +40,7 @@ Live는 기능과 가격에 따라 다양한 에디션으로 구분됩니다.
 :::
 
 <details>
-<summary>Live의 최소 시스템 요구 사항 (Live 12 기준)</summary>
+<summary>Live의 최소 시스템 요구 사항(Live 12 기준)</summary>
 
 | 항목 | Windows | macOS |
 | --- | --- | --- |
@@ -68,7 +72,7 @@ Apollo Studio는 런치패드 조명 효과를 위해 만들어진 스탠드얼�
 
 ### 다운로드
 
-[공식 홈페이지](https://apollo.mat1jaczyyy.com/)
+- [공식 홈페이지](https://apollo.mat1jaczyyy.com/)
 
 :::tip[안내]
 Windows의 경우 exe 확장자 파일을, macOS의 경우 pkg 확장자 파일을 다운로드해야 합니다.
@@ -84,4 +88,38 @@ Unitor는 PC에서 UniPad 프로젝트(UniPack)를 제작하고 연주하기 위
 
 ### 다운로드
 
-[공식 홈페이지](https://teamunitor.github.io/UnitorWeb/)
+- [공식 홈페이지](https://teamunitor.github.io/UnitorWeb/)
+
+---
+
+## UniPad (Android)
+
+![img](/images/software/unipad.webp)
+
+UniPad(유니패드)는 김지섭 및 유니패드 팀이 개발한 Android 전용 런치패드 시뮬레이터로, 실제 런치패드를 물리적으로 연결해 연주할 수 있습니다. 공식 설명에서는 런치패드를 기반으로 한 '리듬 게임(음악 게임)'으로 소개하고 있습니다.
+
+:::caution[주의]
+UniPad는 업데이트가 활발하지 않아 최신 안드로이드 버전에서 원활하게 작동하지 않을 수 있습니다. Android를 포함한 다양한 플랫폼에서 UniPack을 플레이하고 싶다면 [Amethyst Player](https://play.203.io)를 사용하는 것을 권장합니다.
+:::
+
+### 다운로드
+
+- [공식 홈페이지](https://unipad.io)
+
+---
+
+## Super Pads (iOS / Android)
+
+Super Pads와 Super Pads Lights는 Opala Studios Solucoes Tecnologicas Ltda에서 개발한 런치패드 기반 iOS/Android 게임으로, 런치패드 연결을 지원합니다. 대부분의 경우 Super Pads Lights를 사용합니다.
+
+### Super Pads
+
+- [iOS (App Store)](https://apps.apple.com/cn/app/super-pads-become-a-dj/id1196953001)
+
+- [Android (Play Store)](https://play.google.com/store/apps/details?id=com.opalastudios.pads)
+
+### Super Pads Lights
+
+- [iOS (App Store)](https://apps.apple.com/cn/app/super-pads-lights-be-a-dj/id1347371400)
+
+- [Android (Play Store)](https://play.google.com/store/apps/details?id=com.opalastudios.superlaunchpad)

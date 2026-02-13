@@ -59,7 +59,6 @@ export default defineConfig({
 					collapsed: false,
 					items: [
 						{ label: '소프트웨어', slug: 'res/software' },
-						{ label: '휴대폰 소프트웨어', slug: 'res/mobileapp' },
 						{ label: 'Max For Live 플러그인', slug: 'res/amxd' },
 						{ label: 'Launchpad 공식 설명서', slug: 'res/manual' },
 						{ label: 'Novation USB 드라이버', slug: 'res/driver' },
