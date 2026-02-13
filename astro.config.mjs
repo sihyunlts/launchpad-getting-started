@@ -66,7 +66,6 @@ export default defineConfig({
 						{ label: 'Ableton Live 완전 삭제', slug: 'lessons/others/resetlive' },
 						{ label: '오디오 시각화', slug: 'lessons/others/audiovisualization' },
 						{ label: 'Live 비디오 가져오기', slug: 'lessons/others/importvideo' },
-						{ label: 'APKS/XAPK 설치(SAI)', slug: 'lessons/others/sai-installer' },
 						{ label: '브릭 복구(언브릭)', slug: 'lessons/others/unbrick' },
 					],
 				},
