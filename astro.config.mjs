@@ -60,7 +60,7 @@ export default defineConfig({
 					label: '기타 강좌',
 					collapsed: false,
 					items: [
-						{ label: '런치패드 프로 MK1 CFW 매뉴얼', slug: 'lessons/others/cfwmanual' },
+						{ label: '런치패드 프로 MK2 CFW 매뉴얼', slug: 'lessons/others/cfwmanual' },
 						{ label: 'Ableton | 런치패드 포트 설정', slug: 'lessons/others/midiportset' },
 						{ label: 'Ableton Push 2 설정', slug: 'lessons/others/push2dev' },
 						{ label: 'Ableton Live 완전 삭제', slug: 'lessons/others/resetlive' },

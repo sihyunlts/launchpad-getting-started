@@ -62,7 +62,7 @@ Microsoft GS Wavetable Synth는 어떤 MIDI 장치에도 속하지 않습니다.
 
 ## 런치패드 MK2(2세대)
 
-### 런치패드 프로 MK1
+### 런치패드 프로 MK2
 
 | 포트 이름 | 정식 이름 | 용도 |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ Microsoft GS Wavetable Synth는 어떤 MIDI 장치에도 속하지 않습니다.
 | `MIDIIN/MIDIOUT2 (Launchpad Pro)` | `Launchpad Pro (Standalone Port)` | 컨트롤 서피스를 설정하지 않을 때 사용하지만, 키 레이아웃이 달라 의도는 확실하지 않습니다. |
 | `MIDIIN/MIDIOUT3 (Launchpad Pro)` | `Launchpad Pro (MIDI Port)` | `Programmer Mode`에서 사용하는 포트입니다. |
 
-### 런치패드 프로 MK1 CFW
+### 런치패드 프로 MK2 CFW
 
 | 포트 이름 | 정식 이름 | 용도 |
 | --- | --- | --- |

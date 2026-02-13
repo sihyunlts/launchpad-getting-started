@@ -26,11 +26,10 @@ PDF 내용을 온라인으로 확인할 수도 있고, 다운로드해 로컬에
 
 ## Launchpad MK2 시리즈
 
-### Launchpad Pro MK1
+### Launchpad Pro MK2
 
 [PDF](https://da-1302821495.cos.ap-chengdu.myqcloud.com/manual/launchpad-mk2/Launchpad%20Pro%20User%20Guide%20%28Chinese%29.pdf)
 
 ### Launchpad MK2
 
 [PDF](https://da-1302821495.cos.ap-chengdu.myqcloud.com/manual/launchpad-mk2/launchpad-mk2-gsg-en.pdf)
-

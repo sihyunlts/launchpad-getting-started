@@ -47,7 +47,7 @@ MK2 시리즈는 기존 업데이트 방식을 그대로 사용합니다. `.exe`
 - [Windows 시스템 업데이트 프로그램](https://da-1302821495.cos.ap-chengdu.myqcloud.com/lpdupdater/lpmk2/launchpad-mk2-updater.exe)
 - [Mac 시스템 업데이트 프로그램](https://da-1302821495.cos.ap-chengdu.myqcloud.com/lpdupdater/lpmk2/launchpad-mk2-updater-1.0.dmg)
 
-### Launchpad Pro MK1
+### Launchpad Pro MK2
 
 - [Windows 시스템 업데이트 프로그램](https://da-1302821495.cos.ap-chengdu.myqcloud.com/lpdupdater/lppromk1/launchpad-pro-updater-1.2.exe)
 - [Mac 시스템 업데이트 프로그램](https://da-1302821495.cos.ap-chengdu.myqcloud.com/lpdupdater/lppromk1/launchpad-pro-updater-1.2.dmg)
