@@ -62,24 +62,32 @@ export default defineConfig({
 						{ label: '프로젝트 제작: 파생·심화 편', slug: 'lessons/make-proj/advance' },
 					],
 				},
-				{
-					label: '기타 강좌',
-					collapsed: false,
-					items: [
-						{ label: '런치패드 프로 MK2 CFW 매뉴얼', slug: 'lessons/others/cfwmanual' },
-						{ label: 'Ableton | 런치패드 포트 설정', slug: 'lessons/others/midiportset' },
-						{ label: 'Ableton Push 2 설정', slug: 'lessons/others/push2dev' },
-						{ label: 'Ableton Live 완전 삭제', slug: 'lessons/others/resetlive' },
-						{ label: '오디오 시각화', slug: 'lessons/others/audiovisualization' },
-						{ label: 'Live 비디오 가져오기', slug: 'lessons/others/importvideo' },
-						{ label: '브릭 복구(언브릭)', slug: 'lessons/others/unbrick' },
-					],
-				},
-				{
-					label: '자료 다운로드',
-					collapsed: false,
-					items: [
-						{ label: '소프트웨어', slug: 'res/software' },
+					{
+						label: '기타 강좌',
+						collapsed: false,
+						items: [
+							{ label: '런치패드 프로 MK2 CFW 매뉴얼', slug: 'lessons/others/cfwmanual' },
+							{ label: 'Ableton | 런치패드 포트 설정', slug: 'lessons/others/midiportset' },
+							{ label: 'Ableton Push 2 설정', slug: 'lessons/others/push2dev' },
+							{ label: 'Ableton Live 완전 삭제', slug: 'lessons/others/resetlive' },
+							{ label: '오디오 시각화', slug: 'lessons/others/audiovisualization' },
+							{ label: 'Live 비디오 가져오기', slug: 'lessons/others/importvideo' },
+							{ label: '브릭 복구(언브릭)', slug: 'lessons/others/unbrick' },
+						],
+					},
+						{
+						label: '유용한 정보',
+						collapsed: false,
+						items: [
+							{ label: '추천 프로젝트', slug: 'useful/projects' },
+							{ label: '추천 런치패더', slug: 'useful/launchpadders' },
+						],
+					},
+					{
+						label: '자료 다운로드',
+						collapsed: false,
+						items: [
+							{ label: '소프트웨어', slug: 'res/software' },
 						{ label: 'Max For Live 플러그인', slug: 'res/amxd' },
 						{ label: 'Launchpad 공식 설명서', slug: 'res/manual' },
 						{ label: 'Novation USB 드라이버', slug: 'res/driver' },
