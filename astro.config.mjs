@@ -71,7 +71,6 @@ export default defineConfig({
 							{ label: 'Ableton Push 2 설정', slug: 'lessons/others/push2dev' },
 							{ label: 'Ableton Live 완전 삭제', slug: 'lessons/others/resetlive' },
 							{ label: '오디오 시각화', slug: 'lessons/others/audiovisualization' },
-							{ label: 'Live 비디오 가져오기', slug: 'lessons/others/importvideo' },
 							{ label: '브릭 복구(언브릭)', slug: 'lessons/others/unbrick' },
 						],
 					},
