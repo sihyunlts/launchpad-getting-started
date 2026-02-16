@@ -4,6 +4,10 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 }
 
+:root[data-theme="dark"] {
+  --sl-color-text: var(--sl-color-gray-1);
+}
+
 /* Disable underlines for documentation links by default, enable on hover. */
 .sl-markdown-content a:not(:where(.not-content *)) {
   text-decoration: none;
